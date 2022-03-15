@@ -1,5 +1,9 @@
 # Run
 
+`git clone https://github.com/keshavuiq/gitinfo.git` for a local clone.
+
+`cd gitinfo` to cd into dir. 
+
 Run `npm install` to install required node modules.
 
 Run `npm start` to start the server and navigate to `http://localhost:4200/`.
