@@ -1,0 +1,11 @@
+<div *ngIf="id">
+<nb-card *ngFor="let n of name; index as i">
+    <nb-card-header>{{n}}</nb-card-header>
+    <nb-card-body>
+        {{des[i]}}       
+    </nb-card-body>
+    <nb-card-footer>
+        <a href={{url[i]}}><nb-icon icon="external-link-outline"></nb-icon>Link to repo.</a>
+    </nb-card-footer> 
+  </nb-card>
+</div>
