@@ -1,3 +1,5 @@
+Built by : https://github.com/keshavbantu
+
 # Run
 
 `git clone https://github.com/keshavuiq/gitinfo.git` for a local clone.
